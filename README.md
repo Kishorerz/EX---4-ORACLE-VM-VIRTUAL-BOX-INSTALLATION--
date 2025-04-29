@@ -35,6 +35,9 @@ To install and configure Oracle VM VirtualBox on your system.
    - Allocate resources (2GB+ RAM, 20GB+ disk).
    - Attach ISO and install the OS in the virtual environment.
 
+### Snapshot:
+![Installing Oracle VirtualBox](images/snapshot1_virtualbox.png)
+
 ### Result:
 Thus, the Oracle VM Virtual Box was installed successfully.
 
@@ -62,6 +65,10 @@ To install and configure Kali Linux in Oracle VM VirtualBox.
 9. Install system and GRUB bootloader.
 10. Reboot and log in with root credentials.
 11. *(Optional)* Install Guest Additions via Devices > Insert Guest Additions CD Image.
+
+### Snapshots:
+![Adding Kali (Guest OS)](images/snapshot2_kali_add.png)  
+![Kali - The guest OS on Oracle VirtualBox](images/snapshot3_kali_running.png)
 
 ### Result:
 Thus, the guest OS Kali Linux was installed and configured successfully.
